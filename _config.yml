@@ -1,0 +1,28 @@
+name: Josh Colter
+favicon: null
+layout_spectrum: 0.3848343777935952
+typography_spectrum: 0.6657373530324548
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.14039391302503645
+  lightness: 0.25005827052518725
+  saturation: 0.36397298239171505
+  rhythmicContrast: 0.4099573695566505
+purpose: []
